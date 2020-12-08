@@ -89,8 +89,6 @@ C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\obj\Debug\netcoreapp3.1\API.Carros.csproj.CoreCompileInputs.cache
-C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\obj\Debug\netcoreapp3.1\API.Carros.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\obj\Debug\netcoreapp3.1\API.Carros.csproj.CopyComplete
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\API.Business.dll
@@ -99,3 +97,10 @@ C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\API.Data.dll
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\API.Business.pdb
 C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\API.Data.pdb
+C:\Users\Igor\Documents\GitHub\ApiTestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Igor\Documents\GitHub\ApiTestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Igor\Documents\GitHub\ApiTestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Igor\Documents\GitHub\ApiTestCarro\src\API.Carros\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Igor\Documents\GitHub\ApiTestCarro\src\API.Carros\obj\Debug\netcoreapp3.1\API.Carros.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\ApiTestCarro\src\API.Carros\obj\Debug\netcoreapp3.1\API.Carros.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\ApiTestCarro\src\API.Carros\obj\Debug\netcoreapp3.1\API.Carros.MvcApplicationPartsAssemblyInfo.cache

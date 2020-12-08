@@ -27,12 +27,6 @@ namespace API.Carros.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet]
-        public async Task<ActionResult> Initial()
-        {
-            return Ok();
-        }
-
         [HttpPost]
         public async Task<ActionResult<ViagemViewModel>> CalcularViagem(ViagemViewModel viagem)
         {

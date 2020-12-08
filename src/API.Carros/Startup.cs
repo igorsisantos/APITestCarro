@@ -12,6 +12,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.OpenApi.Models;
 
 namespace API.Carros
 {
@@ -33,6 +34,15 @@ namespace API.Carros
 
             services.WebApiConfig();
 
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Title = "My APITestCarro",
+                    Version = "v1"
+                });
+            });
+
             services.ResolveDependencies();
         }
 
@@ -53,6 +63,15 @@ namespace API.Carros
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My APITestCarro");
+
+               // c.RoutePrefix = string.Empty;
             });
         }
     }
