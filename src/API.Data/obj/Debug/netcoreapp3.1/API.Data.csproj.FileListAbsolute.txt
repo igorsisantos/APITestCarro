@@ -1,0 +1,12 @@
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\bin\Debug\netcoreapp3.1\API.Data.deps.json
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\bin\Debug\netcoreapp3.1\API.Data.dll
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\bin\Debug\netcoreapp3.1\API.Data.pdb
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\bin\Debug\netcoreapp3.1\API.Business.dll
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\bin\Debug\netcoreapp3.1\API.Business.pdb
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\obj\Debug\netcoreapp3.1\API.Data.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\obj\Debug\netcoreapp3.1\API.Data.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\obj\Debug\netcoreapp3.1\API.Data.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\obj\Debug\netcoreapp3.1\API.Data.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\obj\Debug\netcoreapp3.1\API.Data.csproj.CopyComplete
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\obj\Debug\netcoreapp3.1\API.Data.dll
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Data\obj\Debug\netcoreapp3.1\API.Data.pdb

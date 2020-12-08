@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XTkB9/bH+5opNqyryJKGmlqESN96NQopBy1H0DULbRJRGLZUPhURd84b9O1Oducb/tDBX+UITsI2aZwcOi3BXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\ApiTestCarro\\src\\API.Data\\API.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

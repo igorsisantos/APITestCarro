@@ -1,0 +1,9 @@
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\bin\Debug\netcoreapp3.1\API.Business.deps.json
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\bin\Debug\netcoreapp3.1\API.Business.dll
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\obj\Debug\netcoreapp3.1\API.Business.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\obj\Debug\netcoreapp3.1\API.Business.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\obj\Debug\netcoreapp3.1\API.Business.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\bin\Debug\netcoreapp3.1\API.Business.pdb
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\obj\Debug\netcoreapp3.1\API.Business.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\obj\Debug\netcoreapp3.1\API.Business.dll
+C:\Users\Igor\Documents\GitHub\APITestCarro\src\API.Business\obj\Debug\netcoreapp3.1\API.Business.pdb
